@@ -1,0 +1,10 @@
+flask 
+pytesseract 
+
+
+pandas 
+
+numpy 
+opencv-python
+matplotlib
+tensorflow
